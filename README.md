@@ -29,3 +29,12 @@ https://catalog.data.gov/dataset/popular-baby-names
 - **Rows:** 69,215
 - **Columns:** 6
 
+**Columns Descriptions**
+-
+
+- **Year:** Birth Year Registration
+- **Ethnicity:** Population Group
+- **Name:** Assigned Birth Name (first name only)
+- **Gender:** Female and Male
+- **Count:** Number of Babies Given the Name
+- **Rank:** Ranking Based on the Popularity
