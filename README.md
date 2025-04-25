@@ -38,3 +38,15 @@ https://catalog.data.gov/dataset/popular-baby-names
 - **Gender:** Female and Male
 - **Count:** Number of Babies Given the Name
 - **Rank:** Ranking Based on the Popularity
+
+**Data Changes**
+-
+
+We had to put the data into excel power query to transform the data into a workable one.
+One of the most significant changes made is we removed any duplicates, ascended by rank, ascended by year, and ascended by ethncity. This organization helped us understand the data better and make it easier for Tableau to read
+
+![Image](https://github.com/user-attachments/assets/66a19166-8c8e-4070-8c26-2e2b9163b41d)
+
+Questions & Findings/Analysis
+-
+
