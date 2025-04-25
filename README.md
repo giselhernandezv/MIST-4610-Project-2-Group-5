@@ -23,3 +23,6 @@ Data Set
 
 https://catalog.data.gov/dataset/popular-baby-names
 
+**Dimensions**
+- **Rows:** 69,215
+- **Columns:** 6
