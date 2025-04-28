@@ -49,4 +49,16 @@ One of the most significant changes made is we removed any duplicates, ascended 
 
 Questions & Findings/Analysis
 -
+**QUESTION 1: How does the popularity of the top 15 names vary across different ethinicities?**
+-
 
+<img width="1225" alt="Image" src="https://github.com/user-attachments/assets/2fa24b0b-c338-467c-9a57-5c319008a288" />
+
+
+**Analysis**
+
+Analyzing the ethnic distribution of popular baby names can reveal patterns that reflect implicit biases and cultural influences. Since names often carry cultural significance, understanding how they vary by ethnicity helps identify underrepresentation and highlights how name-based assumptions may affect areas like education, healthcare, and employment.
+
+**Findings**
+
+Many of the top names were more shown across the Hispanic ethnicity and white non-hispanic ethnicity. Ethan was the top popular name for Asian and Pacific Islander ethnicity, Noah was the top popular name for Black non hispanic ethnicity, Liam was the top popular name for hispanic ethnicity, and David was top popular name for White non-hispanic. Asian and Pacfic Islander ethnicity had the lowest show out for the top 15 popular names. Some names are more ethnically diverse, while others highlight specific ethnic trends, indicating cultural biases.
