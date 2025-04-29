@@ -7,9 +7,9 @@ Baby Name Dataset
 
 Group 5
 - Gisel Hernandez-Vazquez
-- Ansley Hankinson
-- Lukas Cornish
-- Samuel White
+- [Ansley Hankinson](https://github.com/ansleyhankinson/Project-2)
+- [Lukas Cornish](https://github.com/LukasCornish/Project-2)
+- [Samuel White](https://github.com/Wykyyd/4610Project2)
 - Malhar Sethia
 
 Baby Name Dataset Visualization Project 
@@ -74,10 +74,11 @@ This chart analyzes the most gender-neutral baby name from 2011-2021 in the New 
 
 **Findings**
 
-Most of the gender neutral names had a balance of usage between female and male children. The top name usage among both was Ariel, with female count having used the name more than male. The second popular name was Alexis, with the male cout using the name more than female. Skyler, Finlet, Jia, and Nana had a strong balance of usuage amongst both male and female. These 9 names were the names that scored more than .65 on the Gender Neutrality score, suggesting that gender neautral names are still not as common for a place as diverse as NYC.
+Most of the gender neutral names had a balance of usage between female and male children. The top name usage among both was Ariel, with female count having used the name more than male. The second popular name was Alexis, with the male cout using the name more than female. Skyler, Finlet, Jia, and Nana had a strong balance of usuage amongst both male and female. These 9 names were the names that scored more than .65 on the Gender Neutrality score, suggesting that gender neautral names are still not as common for a place as diverse as NYC. The darker the gradient, the higher the gender neutrality score. 
 
 **Aggregate Function**
 
 ![image](https://github.com/user-attachments/assets/2c5c7104-0978-4b4c-b5b3-46cea809cefe)
 
 The aggregate function used was named Gender Neutrality score. If the score indicated a 1, the name was used equally among male and female gender. A score of .65 would mean there would be 65 names of one gender and 100 names of the other gender.
+
